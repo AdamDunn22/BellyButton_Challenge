@@ -1,0 +1,16 @@
+body {
+
+    color: #000000;
+    background-color: rgb(78, 180, 206);
+  }
+ 
+ .well {
+     font-family:'Gill Sans MT'; 
+     font-size: 18;
+    }  
+    .jumbotron {
+      background-image: url("/images/germs.jpg");
+      background-size: 100% 100%;
+      text-align: center;
+    }
+    
